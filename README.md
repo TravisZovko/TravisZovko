@@ -1,6 +1,6 @@
 Hi, I’m @TravisZovko.
 - I'm an aspiring game developer teaching myself computer science and Unity development.
-- I'm working through CS50x and making some small games.
+- I'm currently working through CS50x and making some small games.
 - With regards to game development, I am primarily interested in design and gameplay programming.
   
 My other interests include drawing, cooking, and casual cycling and hiking.
