@@ -1,3 +1,4 @@
+<!---
 Hi, I’m @TravisZovko.
 - I'm an aspiring game developer interested in pursuing a career in game design or gameplay programming.
 - My current self-study consists of making small game projects (paper and digital), participating in open online courses, and supplementing my practice with books and online resources.
